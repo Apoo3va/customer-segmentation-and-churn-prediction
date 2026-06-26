@@ -1,4 +1,5 @@
-# Telecom Customer Churn Prediction & Customer Segmentation ![Status](https://img.shields.io/badge/InProgress)
+# Telecom Customer Churn Prediction & Customer Segmentation 
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 ## Overview
 
