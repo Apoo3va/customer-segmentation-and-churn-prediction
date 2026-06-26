@@ -149,7 +149,7 @@ telecom-customer-churn-prediction/
 ├── CBSOT_Project1.ipynb
 ├── README.md
 ├── .gitignore
-└── data/
+└── dataset/
 ```
 
 ## 🚀 Future Improvements
